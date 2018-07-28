@@ -25,6 +25,7 @@
    > 6) 当前时间戳->mobile->screenshot_video_not_play       ---视频无法播放截图
    >
    > 7) 当前时间戳->mobile->screenshot_error_dir            ---快应用出现错误的截图
+   ```
 
 3、系统报错
    当前时间戳->crash_data.txt
